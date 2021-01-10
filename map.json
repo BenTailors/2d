@@ -192,7 +192,7 @@
                  "id":37,
                  "properties":[
                         {
-                         "name":"colides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -316,7 +316,7 @@
                  "id":176,
                  "properties":[
                         {
-                         "name":"colides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
