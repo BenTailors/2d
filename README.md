@@ -77,3 +77,15 @@ When your changes are ready, you need to "commit" and "push" the changes back to
 Just wait a few minutes, and your map will be propagated automatically to the GitHub pages web-server.
 
 TODO: describe how to push
+
+### BEN: Adding tilesets to the map and the repo
+
+When adding tilesets to the map, first add the .PNG file to the local repository. Then add this file to tiled as new tileset. Make sure to tick the 'embedd to map' box. This makes sure the map references the correct relative path before you start using its tiles - not embedded tiles will cause 404 for the entire map.
+
+Good places to look for tiles:
+itch.io
+opengameart.org
+deviantart.com
+
+They should be 32 x 32 but always worth to give other sizes a try and look if the tile happens to fit in.
+Making your own tiles is a lot of work but possible.
